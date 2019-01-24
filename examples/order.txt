@@ -1,0 +1,4 @@
+#XinaBox
+    ##SW01
+        environmental_data
+
