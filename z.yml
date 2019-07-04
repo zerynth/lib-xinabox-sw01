@@ -1,0 +1,16 @@
+---
+description: Module for XinaBox SW01 ambient temperature, humidity and pressure sensor
+fullname: lib.xinabox.sw01
+info:
+    chip_manufacturer: XinaBox
+    chip_name: SW01
+    name: Temperature, Humidity, Pressure Sensor
+    type: Sensor
+keywords:
+- temperature
+- pressure
+- humidity
+- sensor
+- BME280
+title: XinaBox SW01
+...
